@@ -8,8 +8,6 @@ from pygame import Color, draw, display, time
 
 pygame.init()
 
-pygame.init()
-
 d = (255, 255, 255)
 a = (255, 255, 102)
 b = (0, 0, 0)
